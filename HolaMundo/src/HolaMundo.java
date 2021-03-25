@@ -4,7 +4,8 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		
 		System.out.println("Hola, Mundo!");
-		System.out.println("¿Cómo estáis?");
+		System.out.println("Â¿CÃ³mo estÃ¡is?");
+		System.out.println("Yo bien, Â¿Y tÃº?");
 
 	}
 
